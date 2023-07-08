@@ -2,7 +2,7 @@
 - 👀 I’m interested in just about everything. I want to find new ways to work programming into every industry. 
 - 🌱 I’m currently learning the industry use of C++.
 - 💞️ I’m looking to collaborate on a large scale open source project.
-- My current occupation as an IT technician for a school allows me the opportunity to leverage my computer programming skills to streamline all processes related to the schools use of technology. 
+- My current occupation as an IT technician for a school allows me the opportunity to leverage my computer programming skills to streamline all processes related to the school's use of technology. 
 
 
 <!---
